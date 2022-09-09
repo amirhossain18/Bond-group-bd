@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat&family=Noto+Sans&family=Poppins&family=Rubik+Dirt&family=Rubik+Iso&display=swap');
+
+*{
+    font-family: 'Acme', sans-serif;
+
+
+}
+
+.green{
+    color: #5BD178;
+}
+
+.gray{
+    background-color: rgb(236, 245, 236)
+}
+
+.p-card{
+    background-color: rgb(236, 245, 236)
+}
+
+.product-img img {
+    height: 200px;
+   
+}
+
+.gray a {
+    text-decoration:none;
+}
